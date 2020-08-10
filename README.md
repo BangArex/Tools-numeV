@@ -7,3 +7,6 @@ Nih tools dari gw, terserah klien mau Recode anjink, wkkwkeke
      $ git clone https://github.com/BangArex/Tools-numeV
      $ cd Tools-numeV
      $ sh memeks.sh
+
+# Info
+Jangan lupa kasi > apt install bentrok :v
